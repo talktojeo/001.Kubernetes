@@ -2,7 +2,7 @@
 ====================================
 ## CRATE A NAMESPACE - "TEST"
 
-# USE ARGOCD TO DEPLOY
+### USE ARGOCD TO DEPLOY
 
 <img width="700" height="518" alt="image" src="https://github.com/user-attachments/assets/0a6133e3-db40-4925-a951-08e331214f67" />
 
